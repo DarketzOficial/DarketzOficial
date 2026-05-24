@@ -1,19 +1,5 @@
 <div align="center">
 
-<!-- Logo SVG estático — identidade DarketZ -->
-<svg width="110" height="110" viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="110" height="110" rx="26" fill="#1e1e1e"/>
-  <rect x="4" y="4" width="102" height="102" rx="22" fill="#252526" stroke="#007acc" stroke-width="2"/>
-  <text x="55" y="40" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#007acc">DZ</text>
-  <rect x="30" y="46" width="50" height="36" rx="7" fill="#007acc" opacity="0.12"/>
-  <rect x="30" y="46" width="50" height="22" rx="7" fill="#007acc" opacity="0.22"/>
-  <circle cx="44" cy="57" r="3.5" fill="#007acc"/>
-  <circle cx="66" cy="57" r="3.5" fill="#007acc"/>
-  <rect x="38" y="65" width="34" height="6" rx="3" fill="#007acc" opacity="0.35"/>
-  <line x1="55" y1="82" x2="55" y2="90" stroke="#007acc" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
-  <line x1="46" y1="86" x2="64" y2="86" stroke="#007acc" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
-</svg>
-
 # 👋 Bem-vindo! Sou **Mikari / Darketz**
 
 **Desenvolvedor · Criador de Conteúdo · Streamer**
