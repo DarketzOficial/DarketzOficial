@@ -14,7 +14,7 @@
   <line x1="46" y1="86" x2="64" y2="86" stroke="#007acc" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
 </svg>
 
-# 👋 Bem-vindo! Sou **Mikari / DarketZ**
+# 👋 Bem-vindo! Sou **Mikari / Darketz**
 
 **Desenvolvedor · Criador de Conteúdo · Streamer**
 
@@ -82,6 +82,6 @@
 ---
 
 <div align="center">
-  <sub>© 2026 Mikari / DarketZ — MIT License</sub><br>
+  <sub>© 2026 Mikari / Darketz — MIT License</sub><br>
   <sub>Readme inspirado no visual do <a href="https://github.com/DarketzOficial/Scarlett-JS">Scarlett Bot</a></sub>
 </div>
