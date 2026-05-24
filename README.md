@@ -43,8 +43,8 @@
 <!-- Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub -->
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarketzOficial&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&icon_color=007acc&text_color=ccc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarketzOficial&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&text_color=ccc)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darketzoficial&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&icon_color=007acc&text_color=ccc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darketzoficial&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&text_color=ccc)
 
 </div>
 
