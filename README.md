@@ -36,15 +36,7 @@
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?logo=obs-studio&logoColor=white) |
 | **Áudio** | ![FL Studio](https://img.shields.io/badge/FL_Studio-333?logo=flstudio&logoColor=white) ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000?logo=abletonlive&logoColor=white) |
 
-</div>
-
-## 📊 GitHub
-
-<!-- Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub -->
 <div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=darketzoficial&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&icon_color=007acc&text_color=ccc)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darketzoficial&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&text_color=ccc)
 
 </div>
 
